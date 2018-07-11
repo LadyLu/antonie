@@ -16,7 +16,7 @@ client.on('message', message => {
   } else
 
   if (message.content.includes("Inari")) {
-    message.channel.send("I-Inari? Wh-Where?!");
+    message.channel.send("I-inaRI? Wh-Where?!");
   } else
 
   if (message.content.includes("Echo")) {
