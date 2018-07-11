@@ -41,6 +41,10 @@ client.on('message', message => {
       
   if (message.content.includes("eat me")) {
       message.channel.send("*backs away*");
+  } else
+      
+  if (message.content.includes("satan")) {
+      message.channel.send("*flings holy water*");
   }
 
  
