@@ -45,6 +45,10 @@ client.on('message', message => {
       
   if (message.content.includes("satan")) {
       message.channel.send("*flings holy water*");
+  } else
+      
+  if (message.content.includes("Good fluffy lion boi")) {
+      message.channel.send("<:uwu:430503471821619200>");
   }
 
  
