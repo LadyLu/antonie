@@ -30,11 +30,7 @@ client.on('message', message => {
   if (message.content.includes("Kitty")) {
       message.channel.send("Hey!!! Stay back you snake, she's mine.");
   } else
-      
-  if (message.content.includes("Sveia")) {
-      message.channel.send("Sveia!!! I've been looking everywhere for you!");
-  } else
-      
+       
   if (message.content.includes("Am I pretty Antonie")) {
       message.channel.send("Of course you are! You're beautiful!");
   } else
