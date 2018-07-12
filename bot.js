@@ -39,8 +39,8 @@ client.on('message', message => {
       message.channel.send("Is she around? I had a fashion question to ask her.");
   } else
       
-  if (message.content.includes("eat me")) {
-      message.channel.send("*backs away*");
+  if (message.content.includes("lovemeAntonie")) {
+      message.channel.send("You're one of my best friends, of course I love you!");
   } else
       
   if (message.content.includes("satan")) {
